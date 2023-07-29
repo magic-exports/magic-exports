@@ -1,0 +1,3 @@
+Primary Font : Gilroy
+
+Primary Color Hex Code : #fad026
