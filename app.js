@@ -17,7 +17,7 @@ app.set('view engine', 'hbs')
 
 app.use('/', require('./routes/pages'))
 
-app.listen(process.env.PORT || 3000, function(){
+app.listen(process.env.PORT || 6000, function(){
     console.log(`Server started on port ${process.env.PORT} on ${process.env.NODE_ENV} mode`);
 });
 
